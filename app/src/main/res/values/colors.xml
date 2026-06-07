@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Professional Safety Palette -->
+    <color name="primary">#2E7D32</color>
+    <color name="primary_light">#60AD5E</color>
+    <color name="primary_dark">#005005</color>
+
+    <color name="secondary">#C62828</color>
+    <color name="secondary_light">#FF5F52</color>
+
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Unified Text Color Names -->
+    <color name="text_main">#1A1A1A</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_sub">#666666</color>
+    <color name="text_secondary">#666666</color>
+
+    <color name="accent_blue">#1976D2</color>
+    <color name="success">#388E3C</color>
+</resources>
